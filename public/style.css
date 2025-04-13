@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f0f0f0;
+    padding: 20px;
+  }
+  
+  .container {
+    background: #fff;
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+  
+  h1 {
+    margin-bottom: 20px;
+  }
+  
+  input[type="text"], select, textarea {
+    width: 100%;
+    padding: 8px;
+    margin: 8px 0 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  button {
+    padding: 10px 14px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-right: 8px;
+  }
+  
+  #addFieldBtn {
+    background-color: #1373da;
+    color: #fff;
+  }
+  
+  #saveFormBtn {
+    background-color: #28A745;
+    color: #fff;
+  }
+  
+  .field-group {
+    padding: 12px;
+    background: #f9f9f9;
+    margin-bottom: 16px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+  }
+  
